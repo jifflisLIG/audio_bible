@@ -1,0 +1,1 @@
+enum JsonSource { SERVER, LOCAL }
