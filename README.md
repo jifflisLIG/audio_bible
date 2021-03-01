@@ -3,8 +3,8 @@
 -audio is available only in some language
 
 ## Libraries
-Getx Framework
-SQFLite
+- Getx Framework
+- SQFLite
 Path Provider
 Path
 Flutter HTML
